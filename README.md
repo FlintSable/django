@@ -1,0 +1,2 @@
+# django
+py-mini-blog
